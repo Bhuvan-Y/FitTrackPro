@@ -1,0 +1,33 @@
+{
+  "name": "fittrackpro",
+  "version": "1.0.0",
+  "description": "Professional Fitness Monitoring Dashboard for Gym Trainers",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "lucide-preact": "^0.539.0",
+    "preact": "^10.19.6"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.1",
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0",
+    "vite": "^5.1.4"
+  },
+  "keywords": [
+    "fitness",
+    "dashboard",
+    "trainer",
+    "gym",
+    "preact",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "FitTrackPro Team",
+  "license": "MIT"
+}
